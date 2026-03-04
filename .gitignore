@@ -1,0 +1,13 @@
+# Compiled files
+build/
+dist/
+*.class
+*.jar
+
+# NetBeans
+nbproject/private/
+nbproject/build-impl.xml
+
+# OS
+.DS_Store
+Thumbs.db
