@@ -18,6 +18,7 @@ El programa permite ingresar una palabra desde la consola y muestra si la palabr
 
 Ejemplo de salida:
 [Lineal] Encontrado en índice 10 — 11 comparaciones
+
 [Binaria] Encontrado en índice 10 — 4 comparaciones
 
 Esto permite observar la diferencia de eficiencia entre ambos algoritmos.
