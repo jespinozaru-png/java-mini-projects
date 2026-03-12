@@ -11,3 +11,6 @@ nbproject/build-impl.xml
 # OS
 .DS_Store
 Thumbs.db
+
+# NetBeans private config
+nbproject/private/
